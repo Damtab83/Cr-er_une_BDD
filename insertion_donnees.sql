@@ -1,2 +1,6 @@
--- Pour vider la table de ses données executuer:
---     TRUNCATE TABLE MaTable
+
+
+
+
+
+
